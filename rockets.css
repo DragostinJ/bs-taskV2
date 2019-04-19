@@ -1,0 +1,26 @@
+
+.successMsg {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(115, 233, 18);
+
+  font-size: 30px;
+}
+
+.rocket {
+  display: inline-block;
+}
+
+.button {
+  margin-top: 20px;
+  display: flex;
+}
+
+@keyframes example {
+  from {
+    top: 70vh;
+  }
+  to {
+    top: 0vh;
+  }
+}
